@@ -1,7 +1,7 @@
 # 🩺 Design and Development of an ESP-Based Wireless Nurse Calling System for Patient Care
 
 <p align="center">
-  <img src="images/Picture1.PNG" alt="AgriBot CAD Model" width="600"/>
+  <img src="images/Nurse_calling_1.PNG" alt="AgriBot CAD Model" width="500"/>
 </p>
 
 
@@ -11,10 +11,6 @@ This project presents a **wireless ESP-based Nurse Calling System** designed to 
 The system replaces traditional wired nurse call systems with a **low-cost, flexible, and scalable wireless solution** that can be rapidly deployed in real hospital environments.
 
 It is built using **ESP32** and **ESP8266 ESP-01** modules with optimized wireless configurations to ensure **long-range communication**, **low power consumption**, and **reliable nurse-station connectivity**.
-
-<p align="center">
-  <img src="images/nursecall_overview.png" alt="Wireless Nurse Calling System Overview" width="600"/>
-</p>
 
 ---
 
@@ -45,7 +41,7 @@ Key value additions:
   - Reliable TCP-based communication between patient remotes and the nurse station.  
 
 <p align="center">
-  <img src="images/nursecall_wifi_tests.png" alt="WiFi RSSI Experiments" width="600"/>
+  <img src="images/Nurse_calling_2.PNG" alt="WiFi RSSI Experiments" width="400"/>
 </p>
 
 ---
@@ -87,12 +83,12 @@ The router-based configuration achieved **consistent communication up to ~90 m**
 - Built with a **sheet-metal enclosure** for durability and clinical usability.  
 
 <p align="center">
-  <img src="images/nursecall_station.png" alt="Nurse Station Device" width="450"/>
+  <img src="images/Nurse_calling_3.PNG" alt="Nurse Station Device" width="450"/>
 </p>
 
 ---
 
-## 🧪 Real-World Validation
+## 🧪 Testing & Validation
 
 The system was tested in a **Sri Lankan hospital ward** 
 
@@ -101,7 +97,7 @@ The system was tested in a **Sri Lankan hospital ward**
 - Consistent performance under real patient-care conditions.
 
 <p align="center">
-  <img src="images/nursecall_station.png" alt="Nurse Station Device" width="450"/>
+  <img src="images/Nurse_calling_4.PNG" alt="Nurse Station Device" width="450"/>
 </p>
 
 ---
